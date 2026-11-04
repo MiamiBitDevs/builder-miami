@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1005" height="185" viewBox="0 95 1005 185" fill="none">
-  <title>₿uilder Miami neon lettering</title>
-  <desc>₿uilder Miami handwritten in flowing orange neon tubes on a transparent background.</desc>
+  <title>Builder Miami neon lettering</title>
+  <desc>Builder Miami handwritten in flowing orange neon tubes on a transparent background.</desc>
   <defs>
     <linearGradient id="tube" x1="500" y1="125" x2="500" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ffe0b2"/>
@@ -15,7 +15,6 @@
     <!-- Both words use custom centerline paths with matching slope and tube weight. -->
     <g id="builder" stroke-linecap="round" stroke-linejoin="round">
       <path d="M54 239 88 132M39 165C50 145 77 125 111 124C151 119 172 132 161 151C150 166 125 176 86 179C112 174 158 172 161 191C162 214 136 234 103 238C85 241 71 239 69 230"/>
-      <path d="M148 128 122 236M166 130 140 234"/>
       <path d="M169 183 157 219C150 236 164 242 183 225L208 181L192 219C184 238 201 241 216 226"/>
       <path d="M216 226 246 177 232 218C225 236 240 239 255 225M251 153 254 148"/>
       <path d="M255 225C275 199 297 164 301 143C307 123 298 117 285 136C272 162 262 193 260 218C258 238 273 241 291 226"/>
